@@ -1,0 +1,29 @@
+{
+	"name": "dieg0v/nonutils",
+	"description": "Pixels image extractor to console through symfony console component",
+	"keywords": [ "php", "image", "pixels", "console"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Diego Vilariño",
+			"email": "diego.vilarino@gmail.com"
+		}
+	],
+    "require": {
+    	"php": ">=5.3.0",
+        "symfony/console": "2.3.6",
+        "intervention/image": "dev-master",
+        "hoa/console": "*@dev",
+        "hoa/core": "*@dev",
+        "hoa/string": "*@dev",
+        "hoa/stream": "*@dev",
+        "hoathis/symfony-console-bridge": "dev-master"
+    },
+     "require-dev": {
+     	"phpunit/phpunit-mock-objects":"2.3.*@dev",
+     	"phpunit/phpunit": "4.3.*@dev"
+    },
+    "autoload": {
+        "psr-4": { "Dieg0v\\": "src/Dieg0v" }
+    }
+}
