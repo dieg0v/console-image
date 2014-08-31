@@ -42,6 +42,8 @@ Example usage:
 bin/utils image:extractor https://lh4.googleusercontent.com/-bEK_wXdSd-g/AAAAAAAAAAI/AAAAAAAAAOk/Nova96CPLSY/photo.jpg
 ```
 
+![alt tag](http://www.dieg0v.com/lab/console-image/example.png)
+
 License
 --------------
 Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
