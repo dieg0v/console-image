@@ -1,6 +1,8 @@
 Console Image Extractor
 =======
 
+[![Build Status](https://travis-ci.org/dieg0v/console-image.png)](https://travis-ci.org/dieg0v/console-image)
+
 Pixels image extractor to console through symfony console component.
 
 Requirements and installation
